@@ -1,0 +1,3 @@
+* correr
+* dormir
+* leer
